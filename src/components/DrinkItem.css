@@ -1,0 +1,9 @@
+.drink-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  background-color: rgb(220, 219, 219);
+  margin: 4px;
+  padding: 5px;
+}
